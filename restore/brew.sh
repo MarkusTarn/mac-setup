@@ -69,6 +69,7 @@ brew_if_not_installed mongodb-community
 # brew_cask_if_not_installed discord
 
 ##### Tooling
+# brew_cask_if_not_installed raycast
 # brew_cask_if_not_installed clickup
 # brew_cask_if_not_installed overflow
 # brew_cask_if_not_installed cheatsheet
